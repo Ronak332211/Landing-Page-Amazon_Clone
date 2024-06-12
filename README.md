@@ -23,7 +23,7 @@ To view the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/amazon-landing-page.git
+    git clone https://github.com/Ronak332211/Landing-Page-Amazon_Clone.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -31,19 +31,3 @@ To view the project locally, follow these steps:
     ```
 3. Open `index.html` in your web browser to view the landing page.
 
-## Folder Structure
-├── index.html
-├── style.css
-└── assets/
-    ├── images/
-    │   ├── amazon_logo.png
-    │   ├── hero_image.jpg
-    │   ├── box1_image.jpg
-    │   ├── box2_image.jpg
-    │   ├── box3_image.jpg
-    │   ├── box4_image.jpg
-    │   ├── box5_image.jpg
-    │   ├── box6_image.jpg
-    │   ├── box7_image.jpg
-    │   └── box8_image.jpg
-    └── fonts/
